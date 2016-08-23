@@ -1,1 +1,1 @@
-# nodetogether-paris
+# nodetogether-boston
