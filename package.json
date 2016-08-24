@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hackygolucky/nodetogether-boston/issues"
   },
-  "homepage": "https://github.com/hackygolucky/nodetogether-boston#readme"
+  "homepage": "https://github.com/hackygolucky/nodetogether-boston#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
