@@ -4,8 +4,8 @@ var app = express();
 var rules = require('./app');
 app.use(rules);
 
-var port = '8080';
-var host = '0.0.0.0';
+var port = process.env.PORT || '8080';
+var host = process.env.HOST || '0.0.0.0';
 
 app.listen(port, host);
 
